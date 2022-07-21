@@ -16,11 +16,5 @@ java -jar target/down-bit-jar-with-dependencies.jar 下载链接
 
 ### 相关知识
 [撸了个多线程断点续传下载器，我从中学习到了这些知识](https://mp.weixin.qq.com/s/bI5xYq3jUtp-sviKlzHtNg)
-### 联系我
 
-有帮助可以点「**赞**」在看或 :star: **Star**，谢谢你！
-
-如果要实时关注我更新的文章以及分享的干货，可以加我微信：wn8398，也可以关注「 **未读代码** 」公众号，。
-
-![公众号](https://cdn.jsdelivr.net/gh/niumoo/cdn-assets/webinfo/weixin-public.jpg)
-
+![image](https://user-images.githubusercontent.com/108651633/180140046-3d585dd0-c7c1-470b-a6de-af854ae2d869.png)
